@@ -44,15 +44,13 @@ HostName %h
 
 # Set github config you can push you code to github
 
-init_git_cloudflared("https://github.com/######/vscode.git",
-         personal_token="ghp_dsagdsghfhdfhcbgertfvcgh3423dsad", 
-         branch="main",
-         email="######@gmail.com",
-         username="#######")
+init_git_cloudflared("https://github.com/######/vscode.git", <br>
+         personal_token="ghp_dsagdsghfhdfhcbgertfvcgh3423dsad", <br>
+         branch="main", <br>
+         email="######@gmail.com", <br>
+         username="#######") <br>
          
 # How to set personal_token
 
 Go to this link:
 https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
-
-
