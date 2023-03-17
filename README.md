@@ -19,7 +19,7 @@ from colab_ssh import launch_ssh_cloudflared, init_git_cloudflared
 
   For Window:
 
-2. Move file to folder: 'C:\Users\{laptop_name}\.cloudflared\'
+2. Move file to folder: 'C:\Users\\{laptop_name}\\.cloudflared\'
 
 3. Open CMD/Terminal: Typing: 'notepad ./.ssh/config'
 
